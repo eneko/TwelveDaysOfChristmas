@@ -195,6 +195,8 @@ for day in 1...12 {
 }
 ```
 
+The code can be run from the command line with `swift run`, and tested with `swift test`.
+
 Happy Holidays! 🎉🎄🎊🎇🎆
 
 Eneko
